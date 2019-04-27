@@ -1,0 +1,10 @@
+2019-04-26 13:26:43,420-DEBUG-do_log.py-[line:23]-my_log-日志信息：输出debug级别日志
+2019-04-26 13:26:43,420-INFO-do_log.py-[line:26]-my_log-日志信息：输出info级别日志
+2019-04-26 13:26:43,420-WARNING-do_log.py-[line:29]-my_log-日志信息：输出warning级别日志
+2019-04-26 13:26:43,420-ERROR-do_log.py-[line:32]-my_log-日志信息：输出error级别日志
+2019-04-26 13:26:43,420-CRITICAL-do_log.py-[line:35]-my_log-日志信息：输出critical级别日志
+2019-04-26 18:12:43,776-DEBUG-do_log.py-[line:23]-my_log-日志信息：输出debug级别日志
+2019-04-26 18:12:43,776-INFO-do_log.py-[line:26]-my_log-日志信息：输出info级别日志
+2019-04-26 18:12:43,776-WARNING-do_log.py-[line:29]-my_log-日志信息：输出warning级别日志
+2019-04-26 18:12:43,776-ERROR-do_log.py-[line:32]-my_log-日志信息：输出error级别日志
+2019-04-26 18:12:43,776-CRITICAL-do_log.py-[line:35]-my_log-日志信息：输出critical级别日志
